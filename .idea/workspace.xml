@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cd87421-28d8-41c2-af35-3167431f2062" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/07ff482b7ecf9be8dbbd86ed0f58850b/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/07ff482b7ecf9be8dbbd86ed0f58850b/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/07ff482b7ecf9be8dbbd86ed0f58850b/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/07ff482b7ecf9be8dbbd86ed0f58850b/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/story_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/story_brain.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="R58M73VNZ9E" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ehDw3Cao8Qe1c6GXjqjGirPm3G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quizzler-flutter/lib/main.dart" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cd87421-28d8-41c2-af35-3167431f2062" name="Default Changelist" comment="" />
+      <created>1594765165842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594765165842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594946211624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1594946211624" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594853835346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1594853835346" />
+    <state width="1491" height="149" key="GridCell.Tab.0.bottom" timestamp="1595022410164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="149" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1595022410164" />
+    <state width="1476" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594949856188" />
+    <state width="1491" height="149" key="GridCell.Tab.0.center" timestamp="1595022410164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="149" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1595022410164" />
+    <state width="1476" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594949856187" />
+    <state width="1491" height="149" key="GridCell.Tab.0.left" timestamp="1595022410164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="149" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1595022410164" />
+    <state width="1476" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594949856187" />
+    <state width="1491" height="149" key="GridCell.Tab.0.right" timestamp="1595022410164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="149" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1595022410164" />
+    <state width="1476" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594949856188" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595021988706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1595021988706" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594851593114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1594851593114" />
+  </component>
+</project>

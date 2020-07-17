@@ -1,0 +1,4 @@
+#Fri Jul 17 16:41:15 CDT 2020
+base.0=C\:\\Users\\srisu\\AndroidStudioProjects\\destini-challenge-starting\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
